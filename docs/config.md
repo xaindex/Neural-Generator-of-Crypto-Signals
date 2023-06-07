@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of Contents 
 
 1) Configuration file structure
 2) Settings
