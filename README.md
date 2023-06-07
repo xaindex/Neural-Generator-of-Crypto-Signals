@@ -26,7 +26,7 @@ Track and analysis over 500 coins across Binance, Bittrex, Bitfinex, Coinbase, a
 
 You can build on top of this tool and implement algorithm trading and some machine learning models to experiment with predictive analysis.
 
-### Installing And Running
+## Installing And Running
 The commands listed below are intended to be run in a terminal.
 
 1. Install [docker CE](https://docs.docker.com/install/)
@@ -37,7 +37,7 @@ The commands listed below are intended to be run in a terminal.
 
 1. When you want to update the application run `docker pull xaindex/Neural-Generator-of-Crypto-Signals:master`
 
-### Configuring config.yml
+## Configuring config.yml
 
 For a list of all possible options for config.yml and some example configurations look [here](docs/config.md)
 
